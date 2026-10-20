@@ -1,0 +1,7 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "belfordbot",
+  "main": "index.js",
+  "compatibility_date": "2026-10-16",
+  "workers_dev": true
+}
